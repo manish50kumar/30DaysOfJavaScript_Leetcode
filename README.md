@@ -4,3 +4,6 @@
 * Day 1
   *  Create Hello World Function
   *  Counter
+* Day 2
+  * 2704 To Be Or Not To Be
+  * 2665 Counter II  
